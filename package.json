@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jhernandez89/Nerdom/issues"
   },
-  "homepage": "https://github.com/jhernandez89/Nerdom#readme"
+  "homepage": "https://github.com/jhernandez89/Nerdom#readme",
+  "dependencies": {
+    "react": "^16.0.0"
+  }
 }
