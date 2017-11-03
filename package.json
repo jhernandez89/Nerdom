@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/jhernandez89/Nerdom#readme",
   "dependencies": {
-    "react": "^16.0.0"
+    "react": "^16.0.0",
+    "redux": "^3.7.2"
   }
 }
