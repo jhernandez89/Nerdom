@@ -20,6 +20,7 @@
   "dependencies": {
   },
   "devDependencies": {
+    "react-router-redux": "^4.0.8",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
     "react-redux": "^5.0.6",
